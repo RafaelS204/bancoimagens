@@ -1,0 +1,9 @@
+torch
+faiss-cpu
+Pillow
+numpy
+tqdm
+streamlit
+open_clip_torch
+pyperclip
+customtkinter
